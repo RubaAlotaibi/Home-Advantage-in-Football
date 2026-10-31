@@ -1,6 +1,6 @@
 # Home Advantage in Football — Bias or Real?
 
-A machine learning mini-project that investigates whether the well-known *home advantage* in football is a genuine effect of playing at home before a supportive crowd, or whether it is largely explained by differences in team strength. A **Decision Tree Classifier** is trained to predict the outcome of a match, and its feature importances are analysed to determine which factors most influence the result.
+A machine learning that investigates whether the well-known *home advantage* in football is a genuine effect of playing at home before a supportive crowd, or whether it is largely explained by differences in team strength. A **Decision Tree Classifier** is trained to predict the outcome of a match, and its feature importances are analysed to determine which factors most influence the result.
 
 ## Overview
 
@@ -94,7 +94,3 @@ Each leaf then predicts the majority class among its samples.
 - **Derbies shrink the advantage.** Local rivals travel little and know the venue, so the home win rate drops to ~43%.
 - **Draws are the hardest class to predict**, as they do not depend clearly on any single feature.
 - **Baseline:** always predicting `home_win` gives ~47% accuracy. The model is only useful if it beats this.
-
-## Author
-
-Course mini-project on classification algorithms (Decision Trees).
