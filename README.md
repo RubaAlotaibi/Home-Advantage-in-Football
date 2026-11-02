@@ -1,6 +1,6 @@
 # Home Advantage in Football — Bias or Real?
 
-A machine learning that investigates whether the well-known *home advantage* in football is a genuine effect of playing at home before a supportive crowd, or whether it is largely explained by differences in team strength. A **Decision Tree Classifier** is trained to predict the outcome of a match, and its feature importances are analysed to determine which factors most influence the result.
+A machine learning that investigates project whether the well-known *home advantage* in football is a genuine effect of playing at home before a supportive crowd, or whether it is largely explained by differences in team strength. A **Decision Tree Classifier** is trained to predict the outcome of a match, and its feature importances are analysed to determine which factors most influence the result.
 
 ## Overview
 
